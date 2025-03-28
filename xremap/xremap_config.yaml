@@ -1,0 +1,8 @@
+modmap:
+  - name: Vim Caps Lock 
+    remap:
+      CapsLock:
+        held: Control_L 
+        alone: Esc
+      Esc:
+        CapsLock
